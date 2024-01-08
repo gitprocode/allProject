@@ -124,6 +124,7 @@
 | 114  | [基于Java+Springboot+Vue的实验室预约系统(源代码+数据库+万字论文)](https://github.com/gitprocode/laboratoryPublic) | https://github.com/gitprocode/laboratoryPublic               |
 | 115  | [基于Java+Springboot+Vue的教务管理系统(源代码+数据库)](https://github.com/gitprocode/JwSystemPublic) | https://github.com/gitprocode/JwSystemPublic                 |
 | 116  | [基于Java+Springboot+Vue的员工人事管理系统(源代码+数据库)](https://github.com/gitprocode/StaffManagerPublic) | https://github.com/gitprocode/StaffManagerPublic             |
+| 117  | [基于Java+Springboot+Vue的校园二手商城管理系统(源代码+数据库+8000字论文+ppt)](https://github.com/gitprocode/secondhandtradingPublic) | https://github.com/gitprocode/secondhandtradingPublic        |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/gitprocode/carRental-public) | https://github.com/gitprocode/carRental-public               |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/gitprocode/pms-public) | https://github.com/gitprocode/pms-public                     |
