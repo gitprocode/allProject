@@ -112,7 +112,7 @@
 | 102  | [基于Java+Springboot+vue的个人理财管理系统(源码+数据库)](https://github.com/gitprocode/myacountPublic) | https://github.com/gitprocode/myacountPublic                 |
 | 103  | [基于Java+Springboot+vue的药店管理系统(源码+数据库)](https://github.com/gitprocode/drugManagePublic) | https://github.com/gitprocode/drugManagePublic               |
 | 104  | [基于Java+Springboot+Vue的医院预约挂号小程序(源码+数据库)](https://github.com/gitprocode/hospitalRegistePublic) | https://github.com/gitprocode/hospitalRegistePublic          |
-| 105  | [基于Java+Springboot+Vue的校园跑腿系统(源码+数据库+开发文档)](ttps://github.com/gitprocode/campusRunningPublic) | https://github.com/gitprocode/campusRunningPublich           |
+| 105  | [基于Java+Springboot+Vue的校园跑腿系统(源码+数据库+开发文档)](https://github.com/gitprocode/campusRunningPublic) | https://github.com/gitprocode/campusRunningPublich           |
 | 106  | [基于Java+Springboot的外卖系统(源码+数据库)](https://github.com/gitprocode/takeawayPublic) | https://github.com/gitprocode/takeawayPublic                 |
 | 107  | [基于Java+Springboot+Vue的民宿酒店预订管理系统(源码+数据库)](https://github.com/gitprocode/homestayHotelPublic) | https://github.com/gitprocode/homestayHotelPublic            |
 | 108  | [基于Java+Springboot的OA办公自动化人事管理系统(源码+数据库)](https://github.com/gitprocode/oaSystemPublic) | https://github.com/gitprocode/oaSystemPublic                 |
@@ -132,6 +132,7 @@
 | 122  | [基于Java+Springboot+Vue的摄影跟拍预订管理系统(源代码+数据库+万字论文+PPT)](https://github.com/gitprocode/photographyPublic) | https://github.com/gitprocode/photographyPublic              |
 | 123  | [基于Java+Springboot+Vue的实验室预约管理系统(源代码+数据库+万字论文+PPT)](https://github.com/gitprocode/laboratoryAppointPublic) | https://github.com/gitprocode/laboratoryAppointPublic        |
 | 124  | [基于Java+Springboot的家庭个人理财管理系统(源代码+数据库+开题+ppt)](https://github.com/gitprocode/familyfinancialPublic) | https://github.com/gitprocode/familyfinancialPublic          |
+| 125  | [基于Java+Springboot+Vue的学生成绩管理系统(源代码+数据库)](https://github.com/gitprocode/studentScorePublic) | https://github.com/gitprocode/studentScorePublic             |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/gitprocode/carRental-public) | https://github.com/gitprocode/carRental-public               |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/gitprocode/pms-public) | https://github.com/gitprocode/pms-public                     |
